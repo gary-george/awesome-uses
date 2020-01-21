@@ -140,6 +140,26 @@ module.exports = [
     ],
   },
   {
+    name: 'Gary George',
+    description: 'Im a Full Stack Javascript engineer with over 10 years experience',
+    url: 'https://garygeorge.co.uk/home',
+    twitter: '@Gary_George',
+    emoji: '🚨',
+    country: '🇬🇧',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'Developer',
+      'JavaScript',
+      'Full Stack',
+      'React',
+      'Docker',
+      'Illustrator',
+      'Node',
+      'CSS',
+    ],
+  },
+  {
     name: 'Renee de Kruijf',
     description:
       'Javascript developer in the making. Still learning every day. Liking it a lot!',
@@ -316,25 +336,6 @@ module.exports = [
       'Musician',
     ],
   },
-{
-    name: 'Andy Bell',
-    description:
-      'Educator who focuses on design, front-end development, accessibility and progressive enhancement. I teach at Piccalilli and Front-End Challenges Club',
-    url: 'https://hankchizljaw.com/uses',
-    twitter: '@hankchizljaw',
-    emoji: '🌶',
-    country: '🇬🇧',
-    computer: 'apple',
-    phone: 'iphone',
-    tags: [
-      'Educator',
-      'Designer',
-      'Developer',
-      'CSS',
-      'JavaScript',
-      'a11y'
-    ],
-  },
   {
     name: 'Sergey Lysenko',
     description:
@@ -399,26 +400,6 @@ module.exports = [
       'JavaScript',
       'CSS',
       'Docker',
-    ],
-  },
-  {
-    name: 'Telmo Goncalves',
-    description:
-      'Fullstack Developer, mostly focused to ReactJS. Digital Nomad, I love travelling.',
-    url: 'https://telmo.online/uses',
-    twitter: '@telmo',
-    emoji: '🎙',
-    country: '🇵🇹',
-    computer: 'apple',
-    phone: 'iphone',
-    tags: [
-      'Developer',
-      'React',
-      'Node',
-      'CSS',
-      'Full Stack',
-      'Entrepreneur',
-      'JavaScript',
     ],
   },
   {
